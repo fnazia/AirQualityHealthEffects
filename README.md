@@ -28,6 +28,8 @@ Airway diseases (Asthma, COPD, CRD): Days PM2.5 <br/>
 Cardiovascular disease: 90th Percentile AQI (other features coming very close) <br/>
 Stroke: Good days (other features coming very close) <br/>
 
+![alt text](https://github.com/fnazia/AirQualityHealthEffects/blob/master/imgs/asthma_feature.png?raw=true)
+
 #### Conclusion:
 
 Random Forest could detect PM2.5 as the most important feature responsible 
